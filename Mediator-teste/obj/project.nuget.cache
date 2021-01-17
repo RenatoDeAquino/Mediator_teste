@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uxp9prvxekgCHvlSiav7U0Cc7q0CkdaOYOaeAxU4ufH+KmT4pRBMW4xAwpu9HV4xPOu0Jk2orEACgAhwUlQtQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renato-Bot\\OneDrive\\Documentos\\w3-as\\Mediator-teste\\Mediator-teste\\Mediator-teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renato-Bot\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Renato-Bot\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Renato-Bot\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
